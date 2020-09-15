@@ -1,0 +1,63 @@
+---
+output: html_document
+---
+
+<style type="text/css">
+.main-container {
+  max-width: 1800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+## [Why R? 2020](https://2020.whyr.pl) Conference Agenda {.tabset}
+
+### Wednesday 23-09-2020
+
+<iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=OH_lt8qlSJw&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+### Thursday 24-09-2020
+
+<iframe src="http://www.youtube.com/embed/9hEvGBu3cnI" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=9hEvGBu3cnI&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/BksxHxc1WtU" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=BksxHxc1WtU&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+### Friday 25-09-2020
+
+<iframe src="http://www.youtube.com/embed/tAZ_P8LJPnw" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=tAZ_P8LJPnw&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+### Saturday 26-09-2020
+
+<iframe src="http://www.youtube.com/embed/O4SxU7cRDpI" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=O4SxU7cRDpI&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/8AJPF4SM_AI" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=8AJPF4SM_AI&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/DF1WsYZ94Es" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=DF1WsYZ94Es&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/nNwwebs6qjU" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=nNwwebs6qjU&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/iI1n-AkGxb4" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=iI1n-AkGxb4&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/uiEhmKN1RJo" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=uiEhmKN1RJo&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+
+### Sunday 27-09-2020
+
+<iframe src="http://www.youtube.com/embed/mEAyQ8bv1zU" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=mEAyQ8bv1zU&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/_HBpzbbUVgc" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=_HBpzbbUVgc&embed_domain=whyr.pl" width="48%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/F523a8bKDJA" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=F523a8bKDJA&embed_domain=whyr.pl" width="48%" height="480"></iframe>
