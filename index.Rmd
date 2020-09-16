@@ -12,6 +12,7 @@ output: html_document
 
 ## [Why R? 2020](https://2020.whyr.pl) Conference Agenda {.tabset}
 
+
 ### Wednesday 23-09-2020
 
 <iframe src="http://www.youtube.com/embed/OH_lt8qlSJw" width="50%" height="480" frameborder="0" allowfullscreen></iframe>
@@ -41,7 +42,7 @@ output: html_document
 <iframe src="http://www.youtube.com/embed/1adtK2_ZGTU" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="http://www.youtube.com/embed/AL1F0TPCkKg" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="http://www.youtube.com/embed/_44T0z6N_FM" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="http://www.youtube.com/embed/MemzAC7HIsU" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="http://www.youtube.com/embed/q-JcZxpxWMM" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 
 
