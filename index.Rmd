@@ -33,6 +33,9 @@ output: html_document
 
 ### Saturday 26-09-2020
 
+<iframe src="http://www.youtube.com/embed/OejhKC5rdTo" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=OejhKC5rdTo&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
+
 <iframe src="http://www.youtube.com/embed/O4SxU7cRDpI" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://www.youtube.com/live_chat?v=O4SxU7cRDpI&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
 
@@ -79,3 +82,6 @@ output: html_document
 
 <iframe src="http://www.youtube.com/embed/F523a8bKDJA" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://www.youtube.com/live_chat?v=F523a8bKDJA&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
+
+<iframe src="http://www.youtube.com/embed/6UVTf4CWn8k" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=6UVTf4CWn8k&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
