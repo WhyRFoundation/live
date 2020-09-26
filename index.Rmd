@@ -51,6 +51,8 @@ output: html_document
 <iframe src="http://www.youtube.com/embed/MemzAC7HIsU" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="http://www.youtube.com/embed/EYboZDGBkHY" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 
+<iframe src="http://www.youtube.com/embed/bV0W0vHgOCk" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/live_chat?v=bV0W0vHgOCk&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
 
 <iframe src="http://www.youtube.com/embed/DF1WsYZ94Es" width="49.5%" height="480" frameborder="0" allowfullscreen></iframe>
 <iframe src="https://www.youtube.com/live_chat?v=DF1WsYZ94Es&embed_domain=whyr.pl" width="49.5%" height="480"></iframe>
